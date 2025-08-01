@@ -1,8 +1,1 @@
-@@ .. @@
-       key: "class_id",
-       label: "Classe",
-       render: (classId: number) => {
-         const classItem = classes.find((c) => c.id === classId)
-         return classItem ? classItem.name : "Non assignée"
-       },
-     },
+{"code":"rate-limited","message":"You have hit the rate limit. Please upgrade to keep chatting.","providerLimitHit":false,"isRetryable":true}
